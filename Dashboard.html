@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="Dashboard.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Add Product</h2>
+        <form id="productForm">
+            <input type="file" id="productImage" accept="image/*" required>
+            <input type="text" id="productTitle" placeholder="Enter title" required>
+            <input type="number" id="productPrice" placeholder="Enter price" step="0.01" required>
+            <button type="submit">Add Product</button>
+        </form>
+        <div id="stats" class="dashboard-stats"></div>
+        <div id="productList" class="products"></div>
+    </div>
+    <script src="Dashboard.js"></script>
+</body>
+</html>
