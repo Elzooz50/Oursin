@@ -73,6 +73,33 @@
         reviews: 27772,
         description: "فستان بلون أزرق فاتح آخر بتصميم عصري وقماش مريح.",
         },
+        {
+        id: 8,
+        name: "فستان ازرق فاتح",
+        price: 5000.0,
+        image: "assets/products/bright-red.jpg",
+        rating: 4.2,
+        reviews: 27772,
+        description: "فستان بلون أزرق فاتح آخر بتصميم عصري وقماش مريح.",
+        },
+        {
+        id: 8,
+        name: "فستان ازرق فاتح",
+        price: 5000.0,
+        image: "assets/products/bright-red.jpg",
+        rating: 4.2,
+        reviews: 27772,
+        description: "فستان بلون أزرق فاتح آخر بتصميم عصري وقماش مريح.",
+        },
+        {
+        id: 8,
+        name: "فستان ازرق فاتح",
+        price: 5000.0,
+        image: "assets/products/bright-red.jpg",
+        rating: 4.2,
+        reviews: 27772,
+        description: "فستان بلون أزرق فاتح آخر بتصميم عصري وقماش مريح.",
+        },
     ]; 
     
     // DOM Elements
